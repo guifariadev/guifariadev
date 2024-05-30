@@ -6,9 +6,12 @@
 # 💻 Techs:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+![](https://github-readme-stats.vercel.app/api?username=guifariadev&theme=github_dark&show_icons=true) 
+
 <div style= "display: inline_block"><br>
  
-<img align="center" alt="Github" height="30" width="40" src="![](https://github-readme-stats.vercel.app/api?username=guifariadev&theme=github_dark&show_icons=true) ">
+
 
 src ="https://cdn.discordapp.com/attachments/1245592578745962506/1245592893997973564/gifmaker_me.gif?ex=66595047&is=6657fec7&hm=67937d0c5a4c5e3629b054bc374701a608d2bf1a1ac6abe8c6c065f02168cc3c&"
 </div>
