@@ -9,7 +9,8 @@
 <div class="gifposition"><img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1245592578745962506/1245592893997973564/gifmaker_me.gif?ex=66595047&is=6657fec7&hm=67937d0c5a4c5e3629b054bc374701a608d2bf1a1ac6abe8c6c065f02168cc3c&"> 
 </div>
 
-## 🌐 Socials:
+ 🌐 Socials:
+ ##
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raizel77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/guisouzaspp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-fariadev) 
 
 
