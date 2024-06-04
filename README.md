@@ -38,6 +38,8 @@
 <p align="center"> 
  
  - Working every day with the goal of evolving as a professional, and primarily as a person who tries to improve the world starting from the simple. </p>
+ 
+ - Looking for an internship oportunity. </p>
 
 ---
 
