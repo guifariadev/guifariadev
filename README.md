@@ -23,7 +23,6 @@
 
   <img align="center" alt="Codes" width="300" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
-  
   </td>
 </tr>
 </table>
@@ -39,13 +38,6 @@
 <p align="center"> 
  
  - Working every day with the goal of evolving as a professional, and primarily as a person who tries to improve the world starting from the simple. </p>
-
-
-
-
-
-
-
 
 ---
 
@@ -69,6 +61,16 @@
 
 ---
 
+<h3 align="center">Languages and Tools:</h3>
+
+<div class="icons" align="center">
+ 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -76,17 +78,6 @@
 <a href="https://www.instagram.com/guisouzaspp/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="85" /></a>
 </p>
 
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-
-
-<div class="icons" align="center">
- 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 ##
 
