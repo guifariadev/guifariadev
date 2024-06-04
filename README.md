@@ -34,7 +34,7 @@
 
 <p align="center">
  
- - I am 19, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Python, Javascript, HTML, CSS and some frameworks such as Django </p>
+ - I am 19 years old, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Python, Javascript, HTML, CSS and some frameworks such as Django </p>
  
 <p align="center"> 
  
