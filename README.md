@@ -30,9 +30,15 @@
 
 ---
 
-<h3 align="center">About me:</h3>
+<h3 align="center">More about me:</h3>
 
-
+<p align="center">
+ 
+ - I am 19, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Python, Javascript, HTML, CSS and some frameworks such as Django </p>
+ 
+<p align="center"> 
+ 
+ - Working every day with the goal of evolving as a professional, and primarily as a person who tries to improve the world starting from the simple. </p>
 
 
 
@@ -66,8 +72,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href=www.linkedin.com/in/guilherme-fariadev  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="70"  /></a>
-<a href="https://www.instagram.com/guisouzaspp/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="70" /></a>
+<a href=www.linkedin.com/in/guilherme-fariadev  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="85"  /></a>
+<a href="https://www.instagram.com/guisouzaspp/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="85" /></a>
 </p>
 
 
@@ -84,7 +90,7 @@
 
 ##
 
-<img width=100% bottom=50px src="https://github.com/guifariadev/guifariadev/assets/168239956/98835065-270f-441b-bb30-8c388b42a931"/>
+<img width=100% bottom=50px src="https://github.com/guifariadev/guifariadev/assets/168239956/08f5c12f-080c-4b57-9511-e98776303566"/>
 
 
 
