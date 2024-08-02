@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 🧑‍🎓"Studying a bachelor's
  degree in computer science."  
@@ -33,7 +33,7 @@
 
 <p align="center">
  
- - I am 19 years old, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Python, Javascript, HTML, CSS and some frameworks such as Django </p>
+ - I am 19 years old, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Javascript, Node, React, HTML and CSS </p>
  
 <p align="center"> 
  
@@ -67,7 +67,7 @@
 
 <div class="icons" align="center">
  
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -76,7 +76,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href=www.linkedin.com/in/guilherme-fariadev  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="85"  /></a>
+<a href="www.linkedin.com/in/guilherme-fariadev"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="85"  /></a>
 <a href="https://www.instagram.com/guisouzaspp/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="85" /></a>
 </p>
 
