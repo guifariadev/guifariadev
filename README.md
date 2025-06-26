@@ -31,13 +31,13 @@
 
 <p align="center">
  
- - I am 19 years old, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Javascript, Node, React, HTML and CSS </p>
+ - I am 20 years old, currently living in Brazil. I have an advanced level of English, fluent in Portuguese and looking to learn new languages. I am also developing experience in Javascript, Node, React, Next.js, TailwindCSS, HTML and CSS </p>
  
 <p align="center"> 
  
  - Working every day with the goal of evolving as a professional, and primarily as a person who tries to improve the world starting from the simple. </p>
  
- - Looking for an internship oportunity. </p>
+ - Looking for an internship/junior oportunity. </p>
 
 ---
 
@@ -65,7 +65,8 @@
 
 <div class="icons" align="center">
  
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -74,8 +75,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/guilherme-fariadev"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="85"  /></a>
-<a href="https://www.instagram.com/guisouzaspp/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="85" /></a>
+<a href="https://www.linkedin.com/in/guilherme-fariadev"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="guilherme-faria" height="35" width="85"  /></a>
+<a href="https://www.instagram.com/guisouzaspp/"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="guilherme-faria" height="35" width="85" /></a>
 </p>
 
 
