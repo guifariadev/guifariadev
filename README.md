@@ -5,8 +5,6 @@
 
 <h1 align="center">Hello 👋, I'm Guilherme Faria</h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=250&color=a19f9c&random=false&width=435&lines=Developer | + Exploring and evolving in IT world" alt="Typing SVG" /></a></h3>
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
